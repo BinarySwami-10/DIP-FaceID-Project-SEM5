@@ -1,5 +1,5 @@
 # DIP-FaceID-Project-SEM5
-Final Project Repo For DIP Assignment
+Brief intro : Final Project Repo For DIP Assignment
 
 ![Banner](https://www.eff.org/files/2017/11/03/iowa_dot.jpg)
 
